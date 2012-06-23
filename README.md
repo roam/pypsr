@@ -14,6 +14,9 @@ it executable:
 
     chmod +x psr.py
 
+If you're on OSX, you can download the `Psr.app` application in the `osx` 
+folder.
+
 ## Usage
 
 This will parse the `mht` file in the zip and create a directory called 
